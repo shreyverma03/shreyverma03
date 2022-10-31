@@ -1,5 +1,6 @@
 ### <center> <h2> Hi, I am Shreyash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2></center>
 <h4> Software Engineer</h4>
+<h4> Currently pursuing Masters in Applied Computing</h4>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shreyverma03)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meshreyash)
